@@ -1,0 +1,2 @@
+D:\Проєкти\КП_ЛР№3.2\kotlin_lab_3\buildSrc\src\main\kotlin\buildutils\DetektConfiguration.kt
+D:\Проєкти\КП_ЛР№3.2\kotlin_lab_3\buildSrc\src\main\kotlin\buildutils\DiktatConfiguration.kt
