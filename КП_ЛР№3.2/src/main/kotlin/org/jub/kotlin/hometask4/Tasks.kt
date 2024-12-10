@@ -1,4 +1,4 @@
-package org.jub.kotlin.hometask4  // Замість цього використовуйте правильний пакет вашого проекту
+package org.jub.kotlin.hometask4
 
 import java.util.concurrent.Callable
 import kotlin.random.Random
@@ -10,7 +10,7 @@ class Task(private val taskId: Int, private val taskTime: Long) : Callable<Strin
         return "Task $taskId completed in $taskTime ms"
     }
 }
-package org.jub.kotlin.hometask3  // Встановіть правильний пакет для вашого проекту
+package org.jub.kotlin.hometask4
 
 import java.io.File
 import java.util.concurrent.*
