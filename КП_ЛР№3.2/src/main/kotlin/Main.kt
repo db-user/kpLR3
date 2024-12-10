@@ -1,4 +1,4 @@
-package org.jub.kotlin.hometask3 // або інший пакет першого проекту
+package org.jub.kotlin.hometask4
 
 import java.io.File
 import java.util.Scanner
