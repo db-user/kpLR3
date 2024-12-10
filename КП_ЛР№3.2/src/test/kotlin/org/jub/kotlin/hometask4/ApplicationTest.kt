@@ -1,4 +1,4 @@
-package org.jub.kotlin.hometask4  // Замість цього використовуйте правильний пакет вашого проекту
+package org.jub.kotlin.hometask4
 
 import java.io.File
 import java.util.Scanner
